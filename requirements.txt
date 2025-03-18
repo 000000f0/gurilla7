@@ -1,0 +1,13 @@
+python-telegram-bot==20.8
+python-dotenv==1.0.1
+langchain==0.1.11
+autogen==0.4.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==2.2.1
+httpx==0.26.0  # Required by python-telegram-bot
+aiohttp==3.9.3
+openai==1.14.0
+playwright==1.42.0
+pydantic==2.6.3
+markdownify==0.11.6
